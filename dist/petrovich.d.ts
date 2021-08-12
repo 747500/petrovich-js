@@ -12,6 +12,6 @@ export enum PetrovichCase {
 	'accusative' = 'accusative', //  - винительный (кого? что?)
 	'ablative' = 'ablative', //  - творительный (кем? чем?)
 	'prepositional' = 'prepositional', //  - предложный (о ком? о чем?)
-};
+}
 
 export function petrovich(person: PetrovichPerson, gcase: PetrovichCase): PetrovichPerson;
