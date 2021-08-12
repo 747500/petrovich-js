@@ -14,4 +14,4 @@ export enum PetrovichCase {
 	'prepositional' = 'prepositional', //  - предложный (о ком? о чем?)
 };
 
-export function petrovich(person: PetrovichPerson, case: PetrovichCase): PetrovichPerson;
+export function petrovich(person: PetrovichPerson, gcase: PetrovichCase): PetrovichPerson;
