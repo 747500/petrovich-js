@@ -6,7 +6,7 @@
     var predef = {
         genders: ['male', 'female', 'androgynous'],
         nametypes: ['first', 'middle', 'last'],
-        cases: ['nominative', 'genitive', 'dative', 'accusative', 'instrumental', 'prepositional']
+        cases: ['nominative', 'genitive', 'dative', 'accusative', 'ablative', 'prepositional']
     };
 
     // Auxiliary function: no Array.indexOf owing to IE8

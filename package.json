@@ -20,6 +20,7 @@
     "names"
   ],
   "main": "dist/petrovich.js",
+  "types": "dist/petrovich.d.ts",
   "scripts": {
     "test": "jasmine-node tests/spec/"
   },
