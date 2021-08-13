@@ -1,3 +1,5 @@
+declare module 'petrovich';
+/*
 export type PetrovichPerson = {
 	first: string;
 	middle?: string;
@@ -15,3 +17,4 @@ export enum PetrovichCase {
 }
 
 export function petrovich(person: PetrovichPerson, gcase: PetrovichCase): PetrovichPerson;
+*/
